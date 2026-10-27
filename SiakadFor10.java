@@ -26,9 +26,9 @@ public class SiakadFor10 {
             }
         }
 
-        System.out.println("Nilai tertinggi: " + tertinggi);
-        System.out.println("Nilai terendah: " + terendah);
-        System.out.println("Jumlah mahasiswa lulus: " + JumlahLulus);
-        System.out.println("Jumlah mahasiswa tidak lulus: " + jumlahTidakLulus);
+        System.out.println("Nilai Tertinggi: " + tertinggi);
+        System.out.println("Nilai Terendah: " + terendah);
+        System.out.println("Jumlah Mahasiswa Lulus: " + JumlahLulus);
+        System.out.println("Jumlah Mahasiswa Tidak Lulus: " + jumlahTidakLulus);
     }
 }
