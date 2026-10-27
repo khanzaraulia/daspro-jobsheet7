@@ -9,7 +9,7 @@ public class KafeDoWhile10 {
         int hargaKopi = 12000, hargaTeh = 7000, hargaRoti = 20000;
         int totalHarga;  
 
-        do { 
+         do { 
             System.out.print("Masukkan nama pelanggan (ketik 'batal' untuk keluar): ");
             namaPelanggan = sc.nextLine();
             if (namaPelanggan.equalsIgnoreCase("batal")) {
@@ -30,4 +30,5 @@ public class KafeDoWhile10 {
 
         System.out.println("Semua transaksi selesai. ");
     }
+       
 }
